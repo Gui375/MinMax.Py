@@ -1,0 +1,9 @@
+1) De forma simples, a maquina pode simplesmente jogar um numero randomico de 0 a 5, e esperar que ganha. De forma mais complexa, podemos implementar aprendizado de maquina para entender os padrões do jogador e ver qual numero, sendo par ou impar melhor se encaixa em cada jogada!
+
+2) Podemos usar a mesma estrategia que a anterior, de forma aleatoria entre um dos 3, porem com o aprendizado de maquina podemos afunilar mais ainda as possibilidades, tipo qual jogada o jogador irá fazer após realizar uma anterior!
+
+3) Para o jogo conecte 4, utilizamos a estrategia descrita na pergunta, MinMax que a cada jogada realiza uma sequencia de verificações, para escolher a proxima jogada da melhor forma que o algoritimo encontrar. O funcionamento consiste em, a cada jogada o algoritimo irá testar as proximas possibilidades de jogada do jogador e irá analisar, qual teve maior pontuação, se ele jogar em uma casa o algoritimo irá mapear e pontuar em +1, -1 ou 0 dependendo da posição da proxima jogada, tendo em base isso, ele irá tomar sua proxima decisão. 
+
+4) imagem
+
+5) Utilizei o chat GPT para entender melhor o funcionamento do codigo, não entendi a implementação, caso queira desconsiderar a resposta tudo be, não consegui implementar de forma manual, porem entendi o funcionamento do MinMax
