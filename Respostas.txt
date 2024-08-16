@@ -7,3 +7,4 @@
 4) imagem
 
 5) Utilizei o chat GPT para entender melhor o funcionamento do codigo, não entendi a implementação, caso queira desconsiderar a resposta tudo be, não consegui implementar de forma manual, porem entendi o funcionamento do MinMax
+
